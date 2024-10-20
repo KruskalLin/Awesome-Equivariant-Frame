@@ -1,6 +1,6 @@
 # Awesome Equivariant Frame
 
-## Foundation Works
+## Foundation Work
 
 **Frame Averaging for Invariant and Equivariant Network Design** \
 *Omri Puny, Matan Atzmon, Heli Ben-Hamu, Ishan Misra, Aditya Grover, Edward J. Smith, Yaron Lipman* \
