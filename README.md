@@ -45,6 +45,6 @@ NeurIPS 2025. [[Paper](https://arxiv.org/abs/2405.18378)] \
 28 May 2024
 
 **Improving Equivariant Networks with Probabilistic Symmetry Breaking** \
-*Hannah Lawrence, Vasco Portilheiro, Yan Zhang, Sékou-Oumar Kaba* \
+*Hannah Lawrence\*, Vasco Portilheiro\*, Yan Zhang, Sékou-Oumar Kaba* \
 ICML 2024 Workshop. [[Paper](https://openreview.net/forum?id=1VlRaXNMWO)] \
 17 Jun 2024
