@@ -56,7 +56,7 @@ ICML 2024 Workshop. [[Paper](https://openreview.net/forum?id=1VlRaXNMWO)] \
 
 **Improved Canonicalization for Model Agnostic Equivariance** \
 *Siba Smarak Panigrahi, Arnab Kumar Mondal* \
-NeurIPS 2024. [[Paper](https://arxiv.org/abs/2405.14089)]
+NeurIPS 2024. [[Paper](https://arxiv.org/abs/2405.14089)] \
 23 May 2024
 
 **GENERALIZATION BOUNDS FOR CANONICALIZATION: A COMPARATIVE STUDY WITH GROUP AVERAGING** \
