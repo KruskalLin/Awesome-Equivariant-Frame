@@ -82,16 +82,20 @@ ICLR 2025. [[Paper](https://arxiv.org/abs/2410.02698)] \
 LoG 2022. [[Paper](https://arxiv.org/abs/2208.00716)] \
 21 Apr 2023
 
-**Smooth, exact rotational symmetrization for deep learning on point clouds** \
-*Sergey N. Pozdnyakov, Michele Ceriotti* \
-NeurIPS 2023. [[Paper](https://arxiv.org/abs/2305.19302)] \
-30 May 2023
-
 **SE(3) Equivariant Graph Neural Networks with Complete Local Frames** \
 *Weitao Du, He Zhang, Yuanqi Du, Qi Meng, Wei Chen, Bin Shao, Tie-Yan Liu* \
 ICML 2022. [[Paper](https://arxiv.org/abs/2110.14811)] \
 6 Jul 2022
 
+**A new perspective on building efficient and expressive 3D equivariant graph neural networks** \
+*Weitao Du, Yuanqi Du, Limei Wang, Dieqiao Feng, Guifeng Wang, Shuiwang Ji, Carla Gomes, Zhi-Ming Ma* \
+NeurIPS 2023. [[Paper](https://openreview.net/forum?id=hWPNYWkYPN)] \
+02 Nov 2023
+
+**Smooth, exact rotational symmetrization for deep learning on point clouds** \
+*Sergey N. Pozdnyakov, Michele Ceriotti* \
+NeurIPS 2023. [[Paper](https://arxiv.org/abs/2305.19302)] \
+30 May 2023
 
 **Lorentz Local Canonicalization: How to Make Any Network Lorentz-Equivariant** \
 *Jonas Spinner, Luigi Favaro, Peter Lippmann, Sebastian Pitz, Gerrit Gerhartz, Tilman Plehn, Fred A. Hamprecht* \
