@@ -99,7 +99,7 @@ NeurIPS 2023. [[Paper](https://arxiv.org/abs/2305.19302)] \
 
 **Beyond Canonicalization: How Tensorial Messages Improve Equivariant Message Passing** \
 *Peter Lippmann, Gerrit Gerhartz, Roman Remme, Fred A. Hamprecht* \
-ICLR 2025. [[Paper](https://arxiv.org/abs/2405.15389)]
+ICLR 2025. [[Paper](https://arxiv.org/abs/2405.15389)] \
 24 May 2024
 
 **Lorentz Local Canonicalization: How to Make Any Network Lorentz-Equivariant** \
